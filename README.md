@@ -107,5 +107,5 @@ The system will display the most relevant answer from the notes.
 
 ## Author
 
-Name:   Priyanshu Mangla
+Name:   Sachin Kumar
 Course: B.Tech CSE 6P 
